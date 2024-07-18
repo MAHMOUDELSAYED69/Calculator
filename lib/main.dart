@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:calculator/cache/cache.dart';
-import 'package:calculator/views/calculator_view.dart';
+import 'package:calculator/view/calculator_view.dart';
 
 import 'utils/themes/app_theme.dart';
 import 'viewmodel/theme_provider.dart';
