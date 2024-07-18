@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "C:/Users/legion/Desktop/responsive_calculator/windows/flutter"
+    "cmake.sourceDirectory": "C:/Users/legion/Desktop/responsive_calculator/windows/flutter",
+    "C_Cpp.errorSquiggles": "disabled"
 }
