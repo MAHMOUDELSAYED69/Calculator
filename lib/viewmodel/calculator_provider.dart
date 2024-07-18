@@ -51,6 +51,7 @@ class CalculatorViewModel extends StateNotifier<CalculatorModel> {
     }
   }
 
+
   void evaluateExpression() {
     try {
       final expression = Expression.parse(state.expression);
