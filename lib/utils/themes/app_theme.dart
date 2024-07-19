@@ -31,7 +31,7 @@ abstract class AppTheme {
         centerTitle: false,
         iconTheme: const IconThemeData(color: ColorManager.black),
         titleTextStyle: TextStyle(
-            fontFamily: FontFamilyManager.eduAUVICWANTHand,
+            fontFamily: FontFamilyManager.poppins,
             decoration: TextDecoration.underline,
             decorationThickness: 2,
             decorationColor: ColorManager.blue,
@@ -57,7 +57,7 @@ abstract class AppTheme {
 
   static ThemeData get darkTheme {
     return ThemeData(
-       switchTheme: const SwitchThemeData(
+      switchTheme: const SwitchThemeData(
         trackOutlineColor: WidgetStatePropertyAll(ColorManager.blue),
         thumbColor: WidgetStatePropertyAll(ColorManager.blue),
         trackColor: WidgetStatePropertyAll(ColorManager.black),
@@ -79,7 +79,7 @@ abstract class AppTheme {
         centerTitle: false,
         iconTheme: const IconThemeData(color: ColorManager.white),
         titleTextStyle: TextStyle(
-            fontFamily: FontFamilyManager.eduAUVICWANTHand,
+            fontFamily: FontFamilyManager.poppins,
             decoration: TextDecoration.underline,
             decorationThickness: 2,
             decorationColor: ColorManager.blue,

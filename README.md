@@ -11,8 +11,8 @@ This is a straightforward calculator app built with Flutter, designed to perform
 
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/5558433e-8ed2-4bcd-9a98-434de937c1d9" alt="Screenshot 1" style="width: 26%;"/>
-  <img src="https://github.com/user-attachments/assets/49c03577-681c-48bd-a9bb-e89b6e826f3f" alt="Screenshot 2" style="width: 26%;"/>
+  <img src="https://github.com/user-attachments/assets/4a738001-be6a-4b69-8cbc-84edf8f65ab1" alt="Screenshot 1" style="width: 26%;"/>
+  <img src="https://github.com/user-attachments/assets/be5e93aa-142f-47c4-83c5-a7d5a0f9ace4" alt="Screenshot 2" style="width: 26%;"/>
 
 </div>
 
