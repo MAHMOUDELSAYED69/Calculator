@@ -73,21 +73,9 @@ By following these steps, you'll have the Calculator app and running on your dev
 - **`flutter_lints`**: For linting the Flutter codebase.
 - **`flutter_test`**: SDK for testing Flutter applications.
 
-
-## Contributing
-Contributions are welcome! Follow these steps to contribute:
-
-Fork the repository.
-Create a new branch: git checkout -b feature/YourFeature
-Make your changes and commit them: git commit -m 'Add some feature'
-Push to the branch: git push origin feature/YourFeature
-Submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 
 ## Contact
 
